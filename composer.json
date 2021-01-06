@@ -16,7 +16,7 @@
 
     "require": {
         "php":                           ">=7.1",
-        "behat/mink-browserkit-driver":  "^1.3.3",
+        "behat/mink-browserkit-driver":  "~1.2@dev",
         "fabpot/goutte":                 "^4.0.0"
     },
 
